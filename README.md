@@ -106,7 +106,11 @@ Akshitha Boda. PosePerfect: AI-Powered Posture & Form Correction Tool. GitHub re
 https://github.com/akshithaboda10/poseperfect
 
 🤝 Contact
+
 Made with ❤️ by Akshitha Boda
+
 📧 akshithaboda10@gmail.com
+
 🔗 LinkedIn(https://www.linkedin.com/in/akshitha-boda-51839b249/)
+
 🔗 GitHub(https://github.com/akshithaboda10)
