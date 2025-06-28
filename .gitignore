@@ -1,0 +1,19 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore logs and CSVs
+*.log
+feedback_log.csv
+
+# Ignore system files
+.DS_Store
+
+# Ignore IDE configs
+.vscode/
+.idea/
